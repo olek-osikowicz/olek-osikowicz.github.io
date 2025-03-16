@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Olek
+title: Home
 permalink: /
 # subtitle:
 
@@ -26,8 +26,7 @@ latest_posts:
 
 Hi there! I am a 2nd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
 
-<!-- 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
+I joined the Testing Lab in the [School of Computer Science](https://www.sheffield.ac.uk/cs) in October 2023. My research focuses around testing self-driving systems in simulated environments.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
