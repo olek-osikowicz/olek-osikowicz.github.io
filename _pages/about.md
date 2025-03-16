@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a 2nd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/), supervised by Dr [Donghwan Shin](https://www.dshin.info/) and Prof [Phil McMinn](https://philmcminn.com/).
+Hi there! I am a 2nd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
