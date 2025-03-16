@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: Computer Science PhD Student
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -28,9 +28,9 @@ Hi there! I am a 2nd year PhD student at the [University of Sheffield](https://w
 
 I joined the Testing Lab in the [School of Computer Science](https://www.sheffield.ac.uk/cs) in October 2023. 
 My research focuses on testing self-driving systems in simulated environments. 
-As part of this work, I investigated flaky tests in Autonomous Driving Systems, with my first accepted paper on the topic available [here]().
+As part of this work, I investigated flaky tests in Autonomous Driving Systems, with my first accepted paper on the topic available [here](assets/pdf/osikowicz2025.pdf).
 
-Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Reengineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and master's students.
+Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Re-engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and master's students.
 
 For more details, you can find my full CV [here]().
 
