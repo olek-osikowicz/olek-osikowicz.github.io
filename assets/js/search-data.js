@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-me",
-    title: "Me",
+    id: "nav-olek",
+    title: "Olek",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -372,8 +372,8 @@ ninja.data = [{
           section: "News",},{id: "news-️-i-received-billy-ibberson-travel-fund-bursary-this-stipend-will-help-me-attend-the-2025-international-conference-on-software-engineering-icse-in-ottawa-canada",
           title: '✈️: I received Billy Ibberson Travel Fund bursary. This stipend will help me...',
           description: "",
-          section: "News",},{id: "news-i-am-open-for-a-summer-internship-for-2025",
-          title: '👋: I am open for a Summer internship for 2025',
+          section: "News",},{id: "news-i-m-looking-for-a-summer-2025-internship",
+          title: '👋: I’m looking for a summer 2025 internship!',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
