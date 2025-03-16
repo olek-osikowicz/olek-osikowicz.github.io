@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-👋: **I am open for a Summer internship for 2025**
+👋: **I'm looking for a summer 2025 internship!**
 
