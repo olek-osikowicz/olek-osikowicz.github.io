@@ -31,6 +31,6 @@ My research focuses on testing self-driving systems in simulated environments.
 As part of this work, I investigated flaky tests in Autonomous Driving Systems, with my first accepted paper on the topic available [here](https://olek-osikowicz.github.io/assets/pdf/osikowicz2025.pdf).
 Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Re-engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and master's students.
 
-For more details, you can find my full CV [here]().
+For more details, you can find my full CV [here](https://olek-osikowicz.github.io/assets/pdf/Olek_Osikowicz_CV.pdf).
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
