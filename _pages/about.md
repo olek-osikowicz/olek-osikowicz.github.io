@@ -29,11 +29,11 @@ I joined the Testing Lab in the [School of Computer Science](https://www.sheffie
 
 **My research focuses on testing Autonomous Driving Systems (ADS) in simulated environments.**
 
-As part of this work, I investigated flakiness in ADS testing, with my first accepted paper on the topic available [here](https://olek-osikowicz.github.io/assets/pdf/osikowicz2025.pdf).
+As part of this work, I investigated flakiness in ADS testing, with my first accepted paper on the topic available [here]({{ site.baseurl }}/assets/pdf/osikowicz2025.pdf).
 Currently, I am researching methods to improve the efficiency of ADS testing by applying Multi-Fidelity Bayesian Optimization within a scenario-based testing framework.
 
 Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Re-engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and postgraduate students.
 
-For more details, you can find my full CV [here](https://olek-osikowicz.github.io/assets/pdf/Olek_Osikowicz_CV.pdf).
+For more details, you can find my full CV [here]({{ site.baseurl }}/assets/pdf/Olek_Osikowicz_CV.pdf).
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
