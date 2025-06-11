@@ -374,15 +374,17 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-my-first-paper-on-empirically-evaluating-flaky-tests-for-autonomous-driving-systems-in-simulated-environments-has-been-accepted-at-ftw-2025",
-          title: '📢: My first paper on Empirically Evaluating Flaky Tests for Autonomous Driving Systems...',
+          title: '📔: My first paper on Empirically Evaluating Flaky Tests for Autonomous Driving Systems...',
           description: "",
           section: "News",},{id: "news-️-i-received-billy-ibberson-travel-fund-bursary-this-stipend-will-help-me-attend-the-2025-international-conference-on-software-engineering-icse-in-ottawa-canada",
           title: '✈️: I received Billy Ibberson Travel Fund bursary. This stipend will help me...',
           description: "",
-          section: "News",},{id: "news-i-travelled-to-canada-canada-to-attend-icse2025-where-i-presented-my-first-paper-ftw2025-and-helped-as-a-student-volunteer-throughout-the-week",
-          title: 'I travelled to Canada :canada:, to attend ICSE2025 where I presented my first...',
+          section: "News",},{id: "news-attended-icse-2025-in-canada-canada-presented-my-first-paper",
+          title: '🌐: Attended ICSE 2025 in Canada :canada: – Presented My First Paper!',
           description: "",
-          section: "News",},{id: "news-i-will-be-supervising-two-students-for-summer-research-internship",
+          section: "News",handler: () => {
+              window.location.href = "/news/2025_04_icse/";
+            },},{id: "news-i-will-be-supervising-two-students-for-summer-research-internship",
           title: '📢: I will be supervising two students for Summer Research Internship',
           description: "",
           section: "News",},{id: "projects-project-1",
