@@ -384,8 +384,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_04_icse/";
-            },},{id: "news-i-will-be-supervising-two-students-for-summer-research-internship",
-          title: '📢: I will be supervising two students for Summer Research Internship',
+            },},{id: "news-this-summer-i-ll-be-working-with-two-awesome-students-as-part-of-the-summer-research-internship-we-ll-be-building-infrastructure-to-support-research-on-autonomous-vehicle-safety-in-simulated-environments",
+          title: '📢: This summer, I’ll be working with two awesome students as part of...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
