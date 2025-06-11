@@ -380,7 +380,7 @@ ninja.data = [{
           title: '✈️: I received Billy Ibberson Travel Fund bursary. This stipend will help me...',
           description: "",
           section: "News",},{id: "news-attended-icse-2025-in-canada-canada-presented-my-first-paper",
-          title: '🌐: Attended ICSE 2025 in Canada :canada: – Presented My First Paper!',
+          title: '🌐: Attended ICSE 2025 in Canada :canada: - Presented My First Paper!',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/2025_04_icse/";
