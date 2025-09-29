@@ -24,13 +24,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there! I am a 2nd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
-I joined the Testing Lab in the [School of Computer Science](https://www.sheffield.ac.uk/cs) in October 2023.
+Hi there! I am a 3rd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
 
-**My research focuses on testing Autonomous Driving Systems (ADS) in simulated environments.**
+Since September 2023, I have been a member of the Testing Group, where my research focuses on improving the efficiency and reliability of testing for **Autonomous Driving Systems (ADS)**.
+My work explores:
 
-As part of this work, I investigated flakiness in ADS testing, with my first accepted paper on the topic available [here]({{ site.baseurl }}/assets/pdf/osikowicz2025.pdf).
-Currently, I am researching methods to improve the efficiency of ADS testing by applying Multi-Fidelity Bayesian Optimization within a scenario-based testing framework.
+- Flakiness in simulation-based ADS testing
+- Applying Multi-Fidelity Bayesian Optimization (MFBO) to test scenario generation
+- Using latent-space representations to accelerate critical scenario discovery
+
+Ultimately, my goal is to make ADS testing more robust, scalable, and trustworthy.
 
 Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Re-engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and postgraduate students.
 
