@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-# description: Some sime 
+# description: Some sime
 nav: true
 nav_order: 3
 display_categories: [fun]

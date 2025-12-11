@@ -1,17 +1,16 @@
 ---
 layout: page
 title: GOA Maps
-description: Generating detailed SVG city map posters
+description: Generating detailed SVG city map posters in Python
 img: assets/img/goa_maps/renders/copenhagen_onyx_a3.png
 importance: 1
 category: fun
 # related_publications: true
 ---
 
-I started this project in 2023, when I came a cross [this project by Anvaka](https://anvaka.github.io/city-roads/).
-I simply thought, oh it would be cool to have not only streets but more map layers to have a nice poster on the wall. Few months later, I finished my own tool to generate detailed SVG city map posters from OpenStreetMap data.
-You can find the project on [GitHub](https://github.com/olek-osikowicz/goa-maps-generator)
-
+I started this project in 2023, when I came across [this project by Anvaka](https://anvaka.github.io/city-roads/).
+I simply thought, oh, it would be cool to have not only streets but more map layers to create a nice poster for the wall. A few months of tinkering later, I finished my own tool to generate detailed SVG city map posters from OpenStreetMap data.
+You can find the project on my [GitHub](https://github.com/olek-osikowicz/goa-maps-generator).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -25,57 +24,30 @@ You can find the project on [GitHub](https://github.com/olek-osikowicz/goa-maps-
     </div>
 </div>
 <div class="caption">
-    These posters were generated from scratch with my GOA maps tool.
+    These posters were generated from scratch with my GOA Maps tool.
 </div>
 
-
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-
+Then a good friend of mine, an F1 enthusiast, suggested that my tool would be perfect for making street circuit posters.
+For the color schemes, I used the colors of the constructor teams:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/goa_maps/renders/monaco_red_white_yellow_a3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/goa_maps/renders/baku_b_n_w_blue_a3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/goa_maps/renders/suzuka_black_grey_mint_a3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    F1-themed posters I made.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Check out my [repo](https://github.com/olek-osikowicz/goa-maps-generator) if you'd like such posters for yourself.
+In the example configs, there are a few color themes and street circuits to choose from, or you can create your own.
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
+Later, it turned out that map data processing is a useful skill to have.
+For my UG dissertation project, I built a digital twin of the streets of Sheffield to test lane-keeping systems of autonomous driving systems in BeamNG.
+Ultimately, this led to me enrolling for a PhD in the same area. :)
