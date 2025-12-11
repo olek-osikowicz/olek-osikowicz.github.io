@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: false
+# description: Some sime
+nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+display_categories: [fun]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
