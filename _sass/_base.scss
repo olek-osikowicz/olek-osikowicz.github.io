@@ -1417,3 +1417,15 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+.project-tags {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+}
+
+.project-tag {
+  display: inline-block;
+  margin-right: 0.6rem;
+  white-space: nowrap;
+  color: #b3b3b3;
+}
