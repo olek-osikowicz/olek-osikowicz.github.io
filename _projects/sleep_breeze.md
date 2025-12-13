@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: project
 title: Sleep Breeze
 description: Bluetooth wake-up light mobile app
 img: assets/img/sleep_breeze/video.gif
 importance: 1
 category: work
 tags: [React Native, Expo, Bluetooth Low Energy]
-# related_publications: true
+related_blog_posts: false
 ---
 
 

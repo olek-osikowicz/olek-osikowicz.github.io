@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: GOA Maps
 description: Generating detailed SVG city map posters in Python
 img: assets/img/goa_maps/renders/copenhagen_onyx_a3.png
