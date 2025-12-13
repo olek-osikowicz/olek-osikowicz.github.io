@@ -75,6 +75,11 @@ ninja.data = [{
           description: "Generating detailed SVG city map posters in Python",
           section: "Projects",handler: () => {
               window.location.href = "/projects/goa_maps/";
+            },},{id: "projects-sleep-breeze",
+          title: 'Sleep Breeze',
+          description: "Bluetooth wake-up light mobile app",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sleep_breeze/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
