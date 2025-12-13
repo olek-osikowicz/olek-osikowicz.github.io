@@ -9,7 +9,6 @@ tags: [React Native, Expo, Bluetooth Low Energy]
 related_blog_posts: false
 ---
 
-
 <div class="row">
     <div class="col-12 col-md-8">
         <p>
@@ -59,7 +58,6 @@ related_blog_posts: false
 - Reverse-engineered the BLE communication protocol of the smart bulb, including service/characteristic discovery and low-level byte-level command encoding
 - Built custom native modules for Android and iOS to ensure reliable alarm execution despite OS-level battery optimizations and background execution limits
 - Designed a robust app architecture supporting unreliable BLE connections and device state recovery
-
 
 ## Links
 
