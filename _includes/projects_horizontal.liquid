@@ -11,6 +11,13 @@
           <div class="card-body">
             <h3 class="card-title">{{ project.title }}</h3>
             <p class="card-text">{{ project.description }}</p>
+            {% if project.tags %}
+              <p class="project-tags card-text">
+                {% for tag in project.tags %}
+                  <span class="project-tag"><i class="fa-solid fa-hashtag fa-xs"></i>{{ tag }}</span>
+                {% endfor %}
+              </p>
+            {% endif %}
             <div class="row ml-1 mr-1 p-0">
               {% if project.github %}
                 <div class="github-icon">
