@@ -12,7 +12,7 @@ related_blog_posts: false
 <div class="row align-items-center">
     <div class="col-12 col-md-8 d-flex flex-column justify-content-center">
         <p>
-            I am the developer behind <a href="https://sleepbreeze.eu/">SleepBreeze</a>, a sunrise alarm lamp designed to simulate natural daylight and support a gentle wake-up experience. The lamp gradually increases brightness and color temperature in the minutes leading up to the alarm.
+            I am the developer behind <a href="https://sleepbreeze.eu/pages/lampa-wellness-z-budzikiem-swietlnym/" hreflang="pl">SleepBreeze</a> [PL], a sunrise alarm lamp designed to simulate natural daylight and support a gentle wake-up experience. The lamp gradually increases brightness and color temperature in the minutes leading up to the alarm.
         </p>
         <p> 
             I designed and implemented a production-ready, cross-platform mobile application in React Native (Expo) that controls the device over Bluetooth Low Energy (BLE). The app supports both iOS and Android and has been shipped to first users on the Polish market.
