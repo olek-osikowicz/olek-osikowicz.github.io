@@ -8,6 +8,7 @@ category: work
 tags: [ReactNative, Expo, BluetoothLowEnergy]
 related_blog_posts: false
 ---
+
 <div class="row align-items-center">
     <div class="col-12 col-md-8 d-flex flex-column justify-content-center">
         <p>
@@ -52,24 +53,22 @@ related_blog_posts: false
     Selected screens from the Android and iOS applications.
 </div>
 
-
 # Links
 
 - 🌐 [Official website](https://sleepbreeze.eu/)
 - 📱 [App store listing](https://apps.apple.com/pl/app/sleep-breeze/id6744585835)
 - 📸 [Instagram](https://www.instagram.com/sleepbreeze.eu/)
 
-
 # Tech stack
+
 - React Native `0.79`
 - Expo SDK `53`
 - react-native-ble-plx `3.2.1` for connecting with Bluetooth LE devices
 - Lightbulb: Philips HUE, RGB, White-Ambience, Warm-white models
 
---- 
+---
 
 # Retrospective
-
 
 ### Bluetooth Low Energy integration
 
@@ -94,8 +93,3 @@ Fortunately there is Android specific API of foreground services, which allows t
 Therefore I used that to implement a foreground service that gets started when user sets the alarm. Then I set a callback task to be executed at the alarm time, which starts the gradual sound playback and notifies the user.
 
 To summarize, implementing reliable alarm functionality was more challenging that I expected, but I am happy with the final result.
-
-
-
-  
-
