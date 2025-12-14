@@ -8,9 +8,8 @@ category: work
 tags: [ReactNative, Expo, BluetoothLowEnergy]
 related_blog_posts: false
 ---
-
 <div class="row align-items-center">
-    <div class="col-12 col-md-8">
+    <div class="col-12 col-md-8 d-flex flex-column justify-content-center">
         <p>
             I am the developer behind <a href="https://sleepbreeze.eu/">SleepBreeze</a>, a sunrise alarm lamp designed to simulate natural daylight and support a gentle wake-up experience. The lamp gradually increases brightness and color temperature in the minutes leading up to the alarm.
         </p>
