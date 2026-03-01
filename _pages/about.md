@@ -37,6 +37,6 @@ Ultimately, my goal is to make ADS testing more robust, scalable, and trustworth
 
 Alongside my research, I work as a Graduate Teaching Assistant for the [COM3523 Software Re-engineering](https://www.dcs.shef.ac.uk/intranet/teaching/public/modules/level3/com3523.html) module, supporting both undergraduate and postgraduate students.
 
-For more details, you can find my full CV [here]({{ site.baseurl }}/assets/pdf/Olek_Osikowicz_CV.pdf).
+For more details, you can find my full CV [here]({{ site.baseurl }}/assets/pdf/Olek_Osikowicz_CV_full.pdf).
 
 <!-- Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
