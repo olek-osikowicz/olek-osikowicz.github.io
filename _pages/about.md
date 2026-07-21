@@ -24,14 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I am a 3rd year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/cs), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
+Hi, I am a final year PhD student at the [University of Sheffield](https://www.sheffield.ac.uk/cs), supervised by [Dr Donghwan Shin](https://www.dshin.info/) and [Prof Phil McMinn](https://philmcminn.com/).
 
 Since September 2023, I have been a member of the AI x Software Engineering and Testing ([ASET](https://sheffield.ac.uk/cs/research/groups/testing)) group, where I do my research on reliable and efficient testing for **Autonomous Driving Systems (ADS)**.
 My work explores:
 
-- Applying Multi-Fidelity Bayesian Optimization (MFBO) for test scenario generation
+- Applying Multi-Fidelity Bayesian Optimization (MFBO) for efficient simulation-based testing
 - Using latent-space representations to accelerate critical scenario discovery
-- Flakiness in simulation-based ADS testing
+- Nondeterminism in simulation-based ADS testing
 
 Ultimately, my goal is to make ADS testing more robust, scalable, and trustworthy.
 
